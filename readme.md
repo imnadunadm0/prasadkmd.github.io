@@ -29,3 +29,5 @@ created with SINHAGIRI VISUAL STUDIO™
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prasad-madhuranga&repo=prasad-madhuranga.github.io)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasad-madhuranga&show_icons=true&theme=radical)
+<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prasadmadhuranga)](https://github.com/anuraghazra/github-readme-stats)
