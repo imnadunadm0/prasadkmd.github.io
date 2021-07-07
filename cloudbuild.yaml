@@ -1,0 +1,6 @@
+steps:
+  - name: gcr.io/cloud-builders/gsutil
+    args: ["-m", "rsync", "-r", "-c", "-d", "./", "gs://gs.vikramtiwari.com"]
+
+# Bring by PRASAD.KMD™ 2021
+# created with SINHAGIRI VISUAL STUDIO™

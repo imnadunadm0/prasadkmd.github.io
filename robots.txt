@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Sitemap: http://vikramtiwari.com/sitemap.xml
+
+
+Bring by PRASAD.KMD™ 2021
+created with SINHAGIRI VISUAL STUDIO™
