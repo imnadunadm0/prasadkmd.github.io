@@ -21,3 +21,11 @@ Simply go to your cloned directory and start a static server:
 created with SINHAGIRI VISUAL STUDIO™ -->
 Bring by PRASAD.KMD™ 2021
 created with SINHAGIRI VISUAL STUDIO™
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-madhuranga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-madhuranga&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prasad-madhuranga&repo=prasad-madhuranga.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasad-madhuranga&show_icons=true&theme=radical)
